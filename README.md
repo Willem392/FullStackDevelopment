@@ -4,6 +4,7 @@
 - HTML
   - (started 8/21/23 w/ https://youtu.be/pQN-pnXPaVg)
 - CSS
+  - (started 8/22/23 w/ https://youtu.be/ieTHC78giGQ)
 - Basic Project 1
 - JavaScript
 - DOM
