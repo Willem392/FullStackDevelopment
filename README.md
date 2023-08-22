@@ -1,6 +1,5 @@
 # FullStackDevelopment
-## This repo is to track my progress of learning full stack development. I will be following the recommended order of learning full stack development by Conner Ardman on YouTube.com
-https://youtu.be/dPMk6_HTBq8
+### This repo is to track my progress of learning full stack development. I will be following the recommended order of learning full stack development by Conner Ardman on YouTube.com (https://youtu.be/dPMk6_HTBq8)
 ## Order of which to learn
 - HTML
   - (started 8/21/23 w/ https://youtu.be/pQN-pnXPaVg)
